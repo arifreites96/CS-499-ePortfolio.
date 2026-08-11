@@ -56,6 +56,12 @@ The program also taught me that working in computer science requires continuous 
 ---
 
 # Portfolio Artifacts
+### Technical Artifacts
+
+- [Download Original Travlr Artifact](Travlr_Original_Artifact.zip)
+- [Download Enhanced Travlr Artifact](Travlr_Enhanced_Artifact_GitHub.zip)
+
+The original artifact represents the application before my CS 499 enhancements. The enhanced artifact demonstrates the improvements implemented throughout the software design and engineering, algorithms and data structures, and database enhancement categories.
 
 The following enhancements demonstrate my growth across three fundamental areas of computer science.
 
