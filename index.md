@@ -60,6 +60,7 @@ The program also taught me that working in computer science requires continuous 
 The following enhancements demonstrate my growth across three fundamental areas of computer science.
 
 ## Software Design and Engineering
+[View Software Design and Engineering Enhancement →](software-design.md)
 
 **Artifact:** Travlr Getaways Full-Stack Web Application
 
@@ -68,6 +69,7 @@ For this enhancement, I evaluated the existing Travlr Getaways application from 
 This enhancement demonstrates my ability to evaluate existing software and apply software engineering principles to produce cleaner, more maintainable, and reliable applications.
 
 ## Algorithms and Data Structures
+[View Algorithms and Data Structures Enhancement →](algorithms-data-structures.md)
 
 **Artifact:** Travlr Getaways Full-Stack Web Application
 
@@ -76,6 +78,7 @@ For this enhancement, I improved how travel information was organized and proces
 This enhancement demonstrates my understanding of data structures, algorithmic processing, scalability, maintainability, and the importance of separating application data from presentation.
 
 ## Databases
+[View Database Enhancement →](databases.md)
 
 **Artifact:** Travlr Getaways Full-Stack Web Application
 
