@@ -98,7 +98,7 @@ This enhancement demonstrates my understanding of database design, MongoDB, Mong
 
 My code review examines the original Travlr Getaways application, identifies opportunities for improvement, and explains the enhancements planned across software engineering, algorithms and data structures, databases, and security.
 
-*A link to the code review video will be provided here.*
+[Watch My CS 499 Code Review on YouTube](https://youtu.be/zriT2Su4TI4)
 
 ---
 
